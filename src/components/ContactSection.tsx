@@ -20,7 +20,7 @@ const contactContent = {
     },
     info: {
       email: "amirbeknodirbekov8@example.com",
-      phone: "+998 90 430 27 24",
+      phone: "+998 88 319 66 60",
       location: "Khorezms, Uzbekistan"
     },
     social: "Follow me on social media"
@@ -36,7 +36,7 @@ const contactContent = {
     },
     info: {
       email: "amirbeknodirbekov8@example.com",
-      phone: "+998 90 430 27 24",
+      phone: "+998 88 319 66 60",
       location: "Хорезм, Узбекистан"
     },
     social: "Подписывайтесь в социальных сетях"
@@ -52,7 +52,7 @@ const contactContent = {
     },
     info: {
       email: "amirbeknodirbekov8@example.com",
-      phone: "+998 90 430 27 24",
+      phone: "+998 88 319 66 60",
       location: "Xorazm, O'zbekiston"
     },
     social: "Ijtimoiy tarmoqlarda kuzating"
